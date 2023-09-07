@@ -1,6 +1,6 @@
 # tideman
 ## Description
-Hardest problem I've completed at the time of writing (08/17/23), probably not just in CS, but overall.
+Most difficult problem I've completed at the time of writing (08/17/23), probably not just in CS, but overall.
 
 Simulates a [Tideman](https://en.wikipedia.org/wiki/Ranked_pairs) (AKA Ranked Pairs) voting method to determine the winner from a user-inputted list of candidates based off of user-inputted preferences from a user-inputted number of voters. Done in CS50's GitHub codespace.
 ## Problem
